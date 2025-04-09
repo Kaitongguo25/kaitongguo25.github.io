@@ -8,4 +8,4 @@ My GitHub page is http://github.com/Kaitongguo25.
 
 ### CPSC 120
 
-* Lab 
+* Lab 2
