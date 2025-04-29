@@ -1,4 +1,4 @@
-# Hello World
+# Kaitong Guo's Portfolio 
 
 This is my home page! My name is Kaitong Guo and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Mathematics.
 
